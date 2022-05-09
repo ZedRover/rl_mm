@@ -3,7 +3,7 @@
 .DS_Store
 .*_time
 *.swp
-
+cmake-build-debug
 build
 outfile
 outfile_bandh
