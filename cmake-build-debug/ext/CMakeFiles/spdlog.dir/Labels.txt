@@ -1,0 +1,13 @@
+# Target labels
+ spdlog
+# Source files and their labels
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/CMakeFiles/spdlog
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/CMakeFiles/spdlog.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/CMakeFiles/spdlog-complete.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog-stamp/spdlog-build.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog-stamp/spdlog-configure.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog-stamp/spdlog-download.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog-stamp/spdlog-install.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog-stamp/spdlog-mkdir.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog-stamp/spdlog-patch.rule
+/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog-stamp/spdlog-update.rule

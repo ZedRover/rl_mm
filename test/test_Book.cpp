@@ -1,4 +1,4 @@
-#include "catch.hpp"
+#include <catch2/catch.hpp>
 #include "market/book.h"
 #include "utilities/comparison.h"
 

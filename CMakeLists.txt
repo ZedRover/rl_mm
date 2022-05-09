@@ -4,7 +4,7 @@ project(rl_markets VERSION 0.0 LANGUAGES CXX)
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake")
 
 # Compiler options
-set(GLOBAL_FLAGS "-std=c++1y -Wall -Wextra -FPIC -pedantic")
+set(GLOBAL_FLAGS "-std=c++11 -Wall -Wextra -FPIC -pedantic")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${GLOBAL_FLAGS}")
 
 set(DEBUG_FLAGS "-O0 -g -D DEBUG")

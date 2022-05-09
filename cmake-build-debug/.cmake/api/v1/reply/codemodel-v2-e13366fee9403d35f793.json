@@ -1,0 +1,153 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.2"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ext",
+					"jsonFile" : "directory-ext-Debug-fa61a31e13d0f952d633.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ext",
+					"targetIndexes" : 
+					[
+						0,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Debug-451c0598f41488bb20b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "rl_markets",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "catch::@a9f99adfd9f636cea434",
+					"jsonFile" : "target-catch-Debug-6fc7a194b5320842a2b0.json",
+					"name" : "catch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "do_tests::@36f028580bb02cc8272a",
+					"jsonFile" : "target-do_tests-Debug-877780801878ce728c1e.json",
+					"name" : "do_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "rl_engine::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rl_engine-Debug-53cf345cba6259a5b452.json",
+					"name" : "rl_engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "rl_markets::@145eef247bfb46b6828c",
+					"jsonFile" : "target-rl_markets-Debug-d269995073c974a83496.json",
+					"name" : "rl_markets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spdlog::@a9f99adfd9f636cea434",
+					"jsonFile" : "target-spdlog-Debug-f0a6f20fb82cc1c2e423.json",
+					"name" : "spdlog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "yaml-cpp::@a9f99adfd9f636cea434",
+					"jsonFile" : "target-yaml-cpp-Debug-a3490b8162fcbd70f33c.json",
+					"name" : "yaml-cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug",
+		"source" : "/home/zed/workspace/RL/rl_markets"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

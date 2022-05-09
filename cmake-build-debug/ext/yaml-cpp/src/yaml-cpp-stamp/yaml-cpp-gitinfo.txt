@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/usr/bin/cmake;-P;/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/tmp/yaml-cpp-gitclone.cmake
+source_dir=/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp
+work_dir=/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src
+repository=https://github.com/jbeder/yaml-cpp.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=
+

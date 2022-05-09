@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/CMakeFiles/catch"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/CMakeFiles/catch.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/CMakeFiles/catch-complete.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch-stamp/catch-build.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch-stamp/catch-configure.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch-stamp/catch-download.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch-stamp/catch-install.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch-stamp/catch-mkdir.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch-stamp/catch-patch.rule"
+		},
+		{
+			"file" : "/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch-stamp/catch-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch"
+		],
+		"name" : "catch"
+	}
+}

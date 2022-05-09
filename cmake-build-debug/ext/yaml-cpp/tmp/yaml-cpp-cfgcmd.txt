@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DYAML_CPP_BUILD_TOOLS=False;-DBUILD_SHARED_LIBS=ON;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

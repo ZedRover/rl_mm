@@ -1,0 +1,137 @@
+[
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/data/basic.cpp.o -c /home/zed/workspace/RL/rl_markets/src/data/basic.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/data/basic.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/data/records.cpp.o -c /home/zed/workspace/RL/rl_markets/src/data/records.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/data/records.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/data/streamer.cpp.o -c /home/zed/workspace/RL/rl_markets/src/data/streamer.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/data/streamer.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/environment/base.cpp.o -c /home/zed/workspace/RL/rl_markets/src/environment/base.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/environment/base.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/environment/intraday.cpp.o -c /home/zed/workspace/RL/rl_markets/src/environment/intraday.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/environment/intraday.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/environment/risk_manager.cpp.o -c /home/zed/workspace/RL/rl_markets/src/environment/risk_manager.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/environment/risk_manager.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/environment/statistics.cpp.o -c /home/zed/workspace/RL/rl_markets/src/environment/statistics.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/environment/statistics.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/experiment/batch.cpp.o -c /home/zed/workspace/RL/rl_markets/src/experiment/batch.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/experiment/batch.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/experiment/serial.cpp.o -c /home/zed/workspace/RL/rl_markets/src/experiment/serial.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/experiment/serial.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/market/book.cpp.o -c /home/zed/workspace/RL/rl_markets/src/market/book.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/market/book.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/market/latency.cpp.o -c /home/zed/workspace/RL/rl_markets/src/market/latency.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/market/latency.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/market/market.cpp.o -c /home/zed/workspace/RL/rl_markets/src/market/market.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/market/market.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/market/order.cpp.o -c /home/zed/workspace/RL/rl_markets/src/market/order.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/market/order.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/market/target_price.cpp.o -c /home/zed/workspace/RL/rl_markets/src/market/target_price.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/market/target_price.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/rl/agent.cpp.o -c /home/zed/workspace/RL/rl_markets/src/rl/agent.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/rl/agent.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/rl/policy.cpp.o -c /home/zed/workspace/RL/rl_markets/src/rl/policy.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/rl/policy.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/rl/state.cpp.o -c /home/zed/workspace/RL/rl_markets/src/rl/state.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/rl/state.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/rl/tiles.cpp.o -c /home/zed/workspace/RL/rl_markets/src/rl/tiles.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/rl/tiles.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/rl/traces.cpp.o -c /home/zed/workspace/RL/rl_markets/src/rl/traces.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/rl/traces.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/utilities/accumulators.cpp.o -c /home/zed/workspace/RL/rl_markets/src/utilities/accumulators.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/utilities/accumulators.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Drl_engine_EXPORTS -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -fPIC -o CMakeFiles/rl_engine.dir/utilities/csv.cpp.o -c /home/zed/workspace/RL/rl_markets/src/utilities/csv.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/utilities/csv.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/src",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -o CMakeFiles/rl_markets.dir/main.cpp.o -c /home/zed/workspace/RL/rl_markets/src/main.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/src/main.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/test",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch/single_include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -o CMakeFiles/do_tests.dir/main.cpp.o -c /home/zed/workspace/RL/rl_markets/test/main.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/test/main.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/test",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch/single_include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -o CMakeFiles/do_tests.dir/test_Accumulators.cpp.o -c /home/zed/workspace/RL/rl_markets/test/test_Accumulators.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/test/test_Accumulators.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/test",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch/single_include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -o CMakeFiles/do_tests.dir/test_Book.cpp.o -c /home/zed/workspace/RL/rl_markets/test/test_Book.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/test/test_Book.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/test",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch/single_include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -o CMakeFiles/do_tests.dir/test_Market.cpp.o -c /home/zed/workspace/RL/rl_markets/test/test_Market.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/test/test_Market.cpp"
+},
+{
+  "directory": "/home/zed/workspace/RL/rl_markets/cmake-build-debug/test",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/zed/workspace/RL/rl_markets/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/yaml-cpp/src/yaml-cpp/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/spdlog/src/spdlog/include -I/home/zed/workspace/RL/rl_markets/cmake-build-debug/ext/catch/src/catch/single_include  -std=c++11 -Wall -Wextra -FPIC -pedantic -g -O0 -g -D DEBUG -o CMakeFiles/do_tests.dir/test_Order.cpp.o -c /home/zed/workspace/RL/rl_markets/test/test_Order.cpp",
+  "file": "/home/zed/workspace/RL/rl_markets/test/test_Order.cpp"
+}
+]
